@@ -1,0 +1,17 @@
+[
+  {
+    "ticket_id": "41dbc1b2",
+    "issue": "This hydraulic press issue needs to escalate, nothing in the manual is fixing it",
+    "urgency": "HIGH"
+  },
+  {
+    "ticket_id": "faa9ff50",
+    "issue": "I've tried resetting the robotic arm calibration twice and the drift isn't going away, what now?\"",
+    "urgency": "HIGH"
+  },
+  {
+    "ticket_id": "ddcbfa5f",
+    "issue": "The coolant pump reset still isn't working after I followed all the steps, what should I do?",
+    "urgency": "HIGH"
+  }
+]
